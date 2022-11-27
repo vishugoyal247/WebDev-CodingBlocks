@@ -1,0 +1,21 @@
+/* div:nth-child(3 )
+{
+    background: red;
+    color: blue;
+}
+
+.nav{
+    
+    display: flex;
+    flex-direction: row;
+
+} */
+
+.NavList{
+    display: flex;
+    flex-direction: row;
+}
+
+div {
+    background: red;
+}
